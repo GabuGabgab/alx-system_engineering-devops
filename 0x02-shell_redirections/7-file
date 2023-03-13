@@ -1,3 +1,2 @@
 #!/bin/bash
-touch -- \*\x5C\'\"\Best\ School\"\x5C\'\*\$\?\*\*\*\*\*:\)\ 
 echo "Best School" > \*\x5C\'\"\Best\ School\"\x5C\'\*\$\?\*\*\*\*\*:\)\ 
