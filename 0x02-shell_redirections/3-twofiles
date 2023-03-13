@@ -1,2 +1,3 @@
 #!/bin/bash
-cat /ect/passwd /ect/hosts
+cat /ect/passwd 
+cat /ect/hosts
