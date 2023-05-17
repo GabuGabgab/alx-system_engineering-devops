@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# Find the 10 newest files in the current directory
+files=$(ls -lt | grep -v "^d" | head -n 10 | awk '{print $9}')
+
+# Print each file on a separate line
+for file in $files
+do
+  echo $file
+done
+
